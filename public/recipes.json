@@ -1,0 +1,96 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co.com/hFX89Wc/delicious-fried-chicken-plate.jpg",
+      "recipe_id": "1",
+      "recipe_name": "Grilled Chicken with Basil",
+      "short_description": "A flavorful grilled chicken dish with fresh basil and soy sauce.",
+      "ingredients": [
+        "550 g chicken breast",
+        "120 ml soy sauce",
+        "200 g basil leaves",
+        "400 g mushrooms",
+        "2 cloves garlic, minced"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/t3sSXCk/tacos-plate-near-napkin-sauces.jpg",
+      "recipe_id": "2",
+      "recipe_name": "Vegan Tacos",
+      "short_description": "Delicious vegan tacos packed with fresh vegetables and spices.",
+      "ingredients": [
+        "200 g black beans",
+        "1 avocado, sliced",
+        "100 g corn",
+        "50 g red onion, diced",
+        "1 lime, juiced",
+        "5 g cilantro"
+      ],
+      "preparing_time": 20,
+      "calories": 250
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/PTrQz4h/fettucine-carbonara-plate-top-view.jpg",
+      "recipe_id": "3",
+      "recipe_name": "Pasta Carbonara",
+      "short_description": "A creamy Italian pasta dish made with eggs, cheese, and bacon.",
+      "ingredients": [
+        "200 g pasta",
+        "100 g bacon, diced",
+        "2 large eggs",
+        "50 g grated Parmesan cheese",
+        "10 g parsley, chopped"
+      ],
+      "preparing_time": 25 ,
+      "calories": 400
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/MN4bqqD/smoked-salmon-bruschetta-with-avocado-cream-cheese-served-with-salad.jpg",
+      "recipe_id": "4",
+      "recipe_name": "Salmon Avocado Salad",
+      "short_description": "A light and refreshing salad with grilled salmon and avocado.",
+      "ingredients": [
+        "150 g salmon fillet",
+        "1 avocado, diced",
+        "100 g mixed greens",
+        "10 cherry tomatoes, halved",
+        "1 cucumber, sliced",
+        "30 ml olive oil"
+      ],
+      "preparing_time": 15,
+      "calories": 280
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/tcmyD8V/beef-fried-thai-food-white-plate-with-spring-onion-kaffir-lime-leaves-chilies-salad-chili-paste-cup.jpg",
+      "recipe_id": "5",
+      "recipe_name": "Beef Stir Fry",
+      "short_description": "Quick and easy stir fry with beef and colorful vegetables.",
+      "ingredients": [
+        "300 g beef strips",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced",
+        "100 g broccoli florets",
+        "50 ml soy sauce",
+        "10 g ginger, grated"
+      ],
+      "preparing_time": 20,
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/cLNcsM0/stack-homemade-pancakes-with-honey-syrup-berries.jpg",
+      "recipe_id": "6",
+      "recipe_name": "Fluffy Pancakes",
+      "short_description": "Classic fluffy pancakes, perfect for a weekend breakfast.",
+      "ingredients": [
+        "200 g flour",
+        "1 tbsp sugar",
+        "1 tsp baking powder",
+        "1 egg",
+        "200 ml milk",
+        "20 g butter, melted"
+      ],
+      "preparing_time": 15,
+      "calories": 220
+    }
+  ]
